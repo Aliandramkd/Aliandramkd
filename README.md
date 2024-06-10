@@ -1,5 +1,6 @@
 ## Hello, welcome to my github profile! 👋
-My name is Blagoj Todorov, a Data Analyst.
+
+# My name is Blagoj Todorov, a Data Analyst.
 
 
 
