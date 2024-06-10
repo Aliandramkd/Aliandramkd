@@ -1,12 +1,9 @@
-## Hi there 👋
+## Hello, welcome to my github profile! 👋
+My name is Blagoj Todorov, a Data Analyst.
 
-<!--
-**Aliandramkd/Aliandramkd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Data Analysis with Python and visualization with Tableau.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,3 +11,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/28517335/102723167-55adaf00-432c-11eb-80cc-45f32ffd8e3a.jpeg" height="400px" width="1000px">
+</p>
+<p>
+A budding entrepreneur with love for physics and passion for transformation of India. To know more about me, visit: <a href="https://sargupta.in/">sargupta</a>.
+</p>
+
+- 🌱 I’m currently learning Data Structures and Algorithms 
+- 🔭 I’m currently working on Deep Learning Model Deployment on Azure
