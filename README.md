@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/Aliandramkd/Aliandramkd/blob/main/Data%20Analysis.PNG?raw=true" height="600px" width="800px">
+  <img src="https://github.com/Aliandramkd/Aliandramkd/raw/main/Data%20Analysis%202.webp" height="600px" width="800px">
 </p>
 <p>
 
